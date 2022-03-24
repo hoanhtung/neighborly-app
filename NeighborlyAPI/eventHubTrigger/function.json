@@ -6,7 +6,7 @@
       "name": "event",
       "direction": "in",
 	    "eventHubName": "demoeventhub", 
-	    "connection": "Endpoint=sb://proj2eventhub.servicebus.windows.net/;SharedAccessKeyName=allpolicies;SharedAccessKey=gP1E7r/86XGhNccCDumTQCr5jX28Adf4CqrEBHp7thw=;EntityPath=demoeventhub"
+	    "connection": "Endpoint=sb://proj2demoeventhub.servicebus.windows.net/;SharedAccessKeyName=allpolicies;SharedAccessKey=ywWW44fTyppsVY6wm/vv+TBWAe1OHBgyu7ZBDVEy8Hg=;EntityPath=demoeventhub"
     }
   ]
 }
